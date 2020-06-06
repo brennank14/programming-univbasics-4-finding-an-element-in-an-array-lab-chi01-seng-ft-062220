@@ -9,3 +9,5 @@ def find_element_index(array, value_to_find)
   end
   nil
 end
+
+find_element_index([1, 2, 3], 3)
