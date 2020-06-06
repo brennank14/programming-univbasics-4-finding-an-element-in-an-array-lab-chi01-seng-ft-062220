@@ -10,4 +10,4 @@ def find_element_index(array, value_to_find)
   nil
 end
 
-puts find_element_index([1, 2, 3], 3)
+puts find_element_index([1, 2, 3], 2)
